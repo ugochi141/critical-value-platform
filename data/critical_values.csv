@@ -1,0 +1,6 @@
+timestamp,patient_id,test,value,critical_range,provider,notified,acknowledged,time_to_ack
+2024-01-15 08:15:00,PT3001,Glucose,22,<40,Dr.Smith,08:16:00,08:18:00,2
+2024-01-15 09:30:00,PT3002,Potassium,6.8,>6.5,Dr.Johnson,09:31:00,09:35:00,4
+2024-01-15 10:45:00,PT3003,Hemoglobin,6.2,<7.0,Dr.Williams,10:46:00,10:52:00,6
+2024-01-15 12:00:00,PT3004,Platelet,35,<50,Dr.Brown,12:01:00,12:03:00,2
+2024-01-15 14:20:00,PT3005,INR,7.2,>5.0,Dr.Davis,14:21:00,14:25:00,4
